@@ -1,3 +1,12 @@
+# uabinspect
+
+References:
+
+- https://github.com/Perfare/AssetStudio
+  - This is the earliest and the most popular tool.
+- https://github.com/HearthSim/UnityPack
+- https://github.com/K0lb3/UnityPy
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
